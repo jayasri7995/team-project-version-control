@@ -1,0 +1,3 @@
+Login Module
+
+This module handles user login and authentication.
